@@ -158,7 +158,6 @@ Os valores de FIFO (15), LRU (12) e Ótimo (9) coincidem com os exemplos canôni
 ## Autores
 
 - Angelo Rodrigues
-- _(co-autor, se houver)_
 
 ## Licença
 
